@@ -1,0 +1,13 @@
+prefixname= "dev"
+rg_name = "rg" 
+location = "Australia East"
+vnet_1_name = "vnet-1"
+subnet_name = ["subnet-1","subnet-2"]
+subnet_cidr = [["10.10.0.0/24"],["10.10.1.0/24"]]
+public_ip_1_name = "public-ip-1" 
+network_interface_1_name = "nic-1"
+virtual_machine_1_name = "vm-1-win2019"
+virtual_machine_2_name = "vm-2-win10"
+admin_username = "test"
+admin_password = "test"
+time_zone = "New Zealand Standard Time"
